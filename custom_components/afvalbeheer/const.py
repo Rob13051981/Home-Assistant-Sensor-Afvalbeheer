@@ -10,10 +10,10 @@ SCHEDULE_UPDATE_INTERVAL = timedelta(hours=12)
 
 CONF_ID = "id"
 CONF_WASTE_COLLECTOR = 'wastecollector'
-CONF_CITY_NAME = 'cityname'
-CONF_POSTCODE = 'postcode'
-CONF_STREET_NAME = 'streetname'
-CONF_STREET_NUMBER = 'streetnumber'
+CONF_CITY_NAME = 'Heerlen'
+CONF_POSTCODE = '6433 HD'
+CONF_STREET_NAME = 'Prins Willemstraat'
+CONF_STREET_NUMBER = '68'
 CONF_SUFFIX = 'suffix'
 CONF_ADDRESS_ID = 'addressid'
 CONF_DATE_FORMAT = 'dateformat'
